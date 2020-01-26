@@ -1,0 +1,53 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Sabão",
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "produto": "Sabão em Pó",
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "produto": "Bolacha",
+      "categoria": 2
+    },
+    {
+      "produto": "Pão",
+      "categoria": "2",
+      "id": 4
+    },
+    {
+      "produto": "Sabão de Pedra",
+      "categoria": "1",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "produto": "Tomada",
+      "categoria": "1"
+    },
+    {
+      "id": 7,
+      "produto": "Tomadas",
+      "categoria": "3"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "Alimentos"
+    },
+    {
+      "id": 3,
+      "categoria": "Utilidades"
+    }
+  ]
+}
